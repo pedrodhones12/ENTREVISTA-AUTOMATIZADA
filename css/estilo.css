@@ -1,7 +1,9 @@
-.banner-img {
+.banner {
     width: 100%;
-    max-height: 200px;
-    object-fit: cover;
+    height: 200px;
+    background-image: url("../img/adultosecriancas.png");
+    background-size: cover;
+    background-position: center;
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -56,6 +58,7 @@ button:hover {
     font-size: 15px;
     line-height: 1.6;
 }
+
 
 
 
