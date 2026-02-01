@@ -45,3 +45,12 @@ button:hover {
     background-color: #1a5edb;
 }
 
+
+.motivacao {
+    background: #f0f8ff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    line-height: 1.6;
+}
