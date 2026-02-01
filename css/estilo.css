@@ -51,16 +51,17 @@ button:hover {
     background-color: #1a5edb;
 }
 
-/* BLOCO DE MOTIVAÇÃO */
 .motivacao {
     background: #f0f8ff;
     padding: 15px;
     border-radius: 8px;
-    margin-bottom: 20px;
+    margin: 0 auto 20px auto; /* centraliza horizontalmente */
     font-size: 15px;
     line-height: 1.6;
     text-align: center;
+    max-width: 90%;
 }
+
 
 
 
