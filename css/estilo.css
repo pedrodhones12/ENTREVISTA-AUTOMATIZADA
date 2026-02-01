@@ -1,11 +1,11 @@
-.banner {
+.banner-img {
     width: 100%;
-    height: 200px;
- background-image: url("../img/adultosecriancas.png");
-    background-size: cover;
-    background-position: center;
+    max-height: 200px;
+    object-fit: cover;
     border-radius: 10px;
     margin-bottom: 20px;
+}
+
 }
 .overlay {
     background-color: rgba(0,0,0,0.7);
@@ -56,6 +56,7 @@ button:hover {
     font-size: 15px;
     line-height: 1.6;
 }
+
 
 
 
