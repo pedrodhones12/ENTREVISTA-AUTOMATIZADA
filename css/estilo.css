@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: url("fundo.jpg") no-repeat center center fixed;
+    background: url("css/adultosecrianças.png") no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -44,3 +44,4 @@ button {
 button:hover {
     background-color: #1a5edb;
 }
+
