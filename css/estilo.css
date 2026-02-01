@@ -1,9 +1,9 @@
-
-    .banner {
+.banner {
   width: 300px;
   height: 200px;
-  background-image: url("css/adultosecrianças.png");
+  background-image: url("../img/adultosecrianças.png");
   background-size: cover;
+  background-position: center;
 }
    
 .overlay {
@@ -55,4 +55,5 @@ button:hover {
     font-size: 15px;
     line-height: 1.6;
 }
+
 
